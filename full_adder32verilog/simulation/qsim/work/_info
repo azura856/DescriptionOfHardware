@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/UFBA/QuartusPrime/quartus/full_adder32verilog/simulation/qsim
+vfull_adder32verilog
+Z1 !s110 1665497183
+!i10b 1
+!s100 zkd3ogQ0>^?CY]TjF`[;A0
+Il6k<3?5:akk3QODOM4HoJ1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1665497182
+8full_adder32verilog.vo
+Ffull_adder32verilog.vo
+L0 32
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1665497183.000000
+!s107 full_adder32verilog.vo|
+!s90 -work|work|full_adder32verilog.vo|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vfull_adder32verilog_vlg_vec_tst
+R1
+!i10b 1
+!s100 IXAkbk4>hPbNUaNR>m2Cd3
+I=[3oWhoCbbX:gYeZPPe:81
+R2
+R0
+w1665497181
+8Waveform.vwf.vt
+FWaveform.vwf.vt
+L0 30
+R3
+r1
+!s85 0
+31
+R4
+!s107 Waveform.vwf.vt|
+!s90 -work|work|Waveform.vwf.vt|
+!i113 1
+R5
+R6
